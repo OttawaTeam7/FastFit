@@ -7,7 +7,12 @@ Ben Burk - 8661021
 William Carroll - 8664554
 
 ## Concept
-An online service that creates a virtual mannequin and changing room based on detailed measurements of the user’s body. The service allows users to try on clothing from their favorite retailers and see them modeled on their mannequin. The user can see a full outfit modelled in 3D to get an accurate representation of what it would look like on them. They will be able to share that outfit with their friends and ask them what they think before buying. Once satisfied, you can order the clothing and have the clothing all shipped to you in the same package. The service can suggest outfits you might like based on your preferences and previous purchases.
+An online service that creates a virtual mannequin and changing room based on detailed measurements of the user’s body.
+The service allows users to try on clothing from their favorite retailers and see them modeled on their mannequin.
+The user can see a full outfit modelled in 3D to get an accurate representation of what it would look like on them.
+They will be able to share that outfit with their friends and ask them what they think before buying.
+Once satisfied, you can order the clothing and have the clothing all shipped to you in the same package.
+The service can suggest outfits you might like based on your preferences and previous purchases.
 
 ## Features
 - Detailed body measurements
