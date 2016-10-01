@@ -5,6 +5,7 @@ Members:
 
 Courtney Crawford - 8573965
 Ben Burk - 8661021
+William Carroll - 8664554
 
 Product name: fastfit
 Brief description: Fast fit is a revolutionary virtual mannequin fitting room that is customized to
