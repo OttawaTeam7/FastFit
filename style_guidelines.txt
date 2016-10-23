@@ -6,7 +6,7 @@ The site will be very simple with a clean user interface.
 
 Colours
 ========
-For Fastfit, we wanted the colours of our website to standoout while also having a cool colour tone.
+For Fastfit, we wanted the colours of our website to stand out while also having a cool colour tone.
 These are our color swatches:
 
 - #0DA1FF
